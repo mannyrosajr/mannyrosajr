@@ -6,11 +6,12 @@
 
 <p align="center">
   <a href="https://rosafi.io">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/yourprofile">🔗 LinkedIn</a> •
-  <a href="mailto:your@email.com">📫 Contact</a>
+  <a href="https://linkedin.com/in/manuelrosajr">🔗 LinkedIn</a> •
+  <a href="mailto:me@rosafi.io">📫 Contact</a>
 </p>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
+
 ### 🧰 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -28,8 +29,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mannyrosa&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannyrosa&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mannyrosajr&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannyrosajr&layout=compact&theme=tokyonight" />
 </p>
 ---
 
